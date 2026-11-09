@@ -1,0 +1,28 @@
+{
+  "inventory": [
+    {
+      "MaterialTitle": {
+        "Name": "MULTITURN POT-10k",
+        "PN": "PV36W103C01B00",
+        "MF": "BOURNS"
+      },
+      "MID": "MID20372",
+      "MD": "The PV36W103C01B00 is a multi-turn cermet trimmer potentiometer manufactured by Bourns Inc.\r\n• Resistance: 10 kΩ (10,000 ohms)\n• Power Rating: 0.5W (500 mW)\n• Number of Turns: 25 turns (multi-turn)\n• Resistive Element: Cermet\n• Tolerance: ±10%\n• Adjustment Type: Top adjust / Top cross\n• Mounting Style: Through-hole (PC pins / PCB mount)\n• Temperature Coefficient: ±100 ppm/°C\n• Operating Temperature Range: -55°C to +125°C\n• Dimensions: Approx. 9.53 mm × 4.83 mm × 11.55 mm (rectangular / ~10mm square profile)",
+      "MT": "Electronic Material",
+      "MQNT": 20,
+      "MCost": 183.0,
+      "MQATG": "#CLASS_0",
+      "ML": "110",
+      "MDS": "https://docs.google.com/viewerng/viewer?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmylab2025%2FMID20372%2Fmain%2Fpv36.pdf",
+      "MAF1": "",
+      "MAF2": "",
+      "MAF3": "",
+      "MAF4": "",
+      "MAF5": "",
+      "MR": "",
+      "MaterialImages": [
+        "https://raw.githubusercontent.com/mylab2025/MID20372/main/IMG_20261109_124347.jpg"
+      ]
+    }
+  ]
+}
